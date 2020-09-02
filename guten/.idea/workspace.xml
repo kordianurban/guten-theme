@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63c87606-b5a9-400f-9d15-b65be0f3c544" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../scw/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/css/admin-dist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/css/dist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/css/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/images/icon-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/images/icon-linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/images/icon-m.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/images/icon-twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/js/gutenberg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/js/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/js/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/admin-dist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/dist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/specific.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/assets/sass/vendor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/front-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Conferences.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Events.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Posts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Presentation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Theme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/Users.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/WidgetButton.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/WidgetSocial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/gutenberg/src/intro-post/view/intro-post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/src/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scw/views/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1aA93lKl2JjZbv64SxJKuSmZXEr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/gutenberg/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/gutenberg/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63c87606-b5a9-400f-9d15-b65be0f3c544" name="Default Changelist" comment="" />
+      <created>1586167333992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586167333992</updated>
+      <workItem from="1586167338218" duration="769000" />
+      <workItem from="1597260049871" duration="14149000" />
+      <workItem from="1597304509337" duration="2467000" />
+      <workItem from="1597783889692" duration="2556000" />
+      <workItem from="1598338901680" duration="2947000" />
+      <workItem from="1598550914763" duration="218000" />
+      <workItem from="1599031842609" duration="3376000" />
+      <workItem from="1599035571022" duration="1296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="153" key="FileChooserDialogImpl" timestamp="1597270243509">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="458" y="153" key="FileChooserDialogImpl/0.23.1280.737@0.23.1280.737" timestamp="1597270243509" />
+    <state x="351" y="148" width="782" height="550" key="find.popup" timestamp="1599034846483">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="351" y="148" width="782" height="550" key="find.popup/0.23.1280.737@0.23.1280.737" timestamp="1599034846483" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/gutenberg/src/settings/guten-block.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

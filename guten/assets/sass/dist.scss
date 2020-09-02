@@ -1,0 +1,21 @@
+@charset 'UTF-8';
+
+$fontColor: #0E1828;
+$blue: #131C2C;
+$gray: #757575;
+$grayLight: #F1F3F5;
+$red: #E44145;
+
+/* Reset & Defaults */
+@import 'vendor';
+@import 'mixins';
+
+/* Main layout */
+@import 'basic';
+@import 'header';
+@import 'footer';
+
+/* Specific */
+@import 'specific';
+@import 'page';
+

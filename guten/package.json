@@ -1,0 +1,49 @@
+{
+  "name": "rfg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Paweł Iwon <pawel.i@frontkom.com>",
+  "license": "MIT",
+  "private": true,
+  "browserslist": [
+    "> 1%",
+    "last 2 version",
+    "iOS >= 9",
+    "IE >= 11"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "autoprefixer": "^9.1.5",
+    "babel-eslint": "^8.2.6",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "css-loader": "^3.5.3",
+    "eslint": "5.13.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "ignore-emit-webpack-plugin": "^2.0.2",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.9.3",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.2",
+    "stylelint": "^9.10.1",
+    "stylelint-selector-bem-pattern": "^2.0.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-import-glob": "^2.0.0",
+    "webpack-import-glob-loader": "^1.6.3"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5"
+  },
+  "scripts": {
+    "watch": "webpack --mode development --watch --devtool source-map",
+    "dev": "webpack --mode development --devtool source-map --debug",
+    "build": "webpack -p",
+    "lint:js": "eslint src",
+    "lint:css": "stylelint src/scss"
+  }
+}

@@ -1,0 +1,49 @@
+@charset 'UTF-8';
+
+.guten-block-backend {
+  padding: 20px 30px;
+  padding-top: 15px;
+  background: #efefef;
+  border-radius: 4px;
+
+  & > header {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+
+    small {
+      display: block;
+      color: #777;
+      text-transform: none;
+
+      &.clear {
+        color: #d00;
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    }
+  }
+
+  .editor-post-featured-image__toggle {
+    height: auto;
+
+    img {
+      width: 100%;
+      height: 100px;
+      object-fit: contain;
+    }
+  }
+
+  article {
+    border-radius: 4px;
+    border: 1px solid #7e8993;
+    background-color: #fff;
+    padding: 10px 15px;
+  }
+}
+
+.tf-select-posts .select2 {
+  width: auto !important;
+}

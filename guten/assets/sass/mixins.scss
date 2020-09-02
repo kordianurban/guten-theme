@@ -1,0 +1,143 @@
+@mixin coverBg {
+	background-size: cover;
+	background-position: center center;
+}
+
+@mixin navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style: none;
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+
+    a {
+      display: block;
+      text-decoration: none;
+      text-align: center;
+      transition: .2s all;
+    }
+  }
+}
+
+@mixin button {
+  cursor: pointer;
+  display: inline-block;
+  margin: 0;
+  padding: 16px 60px;
+  border: 1px solid $pink;
+  border-radius: 30px;
+  background: $pink;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  letter-spacing: 1.51667px;
+
+  &:hover {
+    color: $pink;
+    background: none;
+    text-decoration: none;
+  }
+
+  &.transparent {
+    color: $pink;
+    background: none;
+
+    &:hover {
+      color: #fff;
+      background: $pink;
+    }
+  }
+
+  &.blue {
+    color: $blue;
+    border-color: $blue;
+    background: none;
+
+    &:hover {
+      color: #fff;
+      background: $blue;
+    }
+  }
+
+  @media ( max-width: 992px ) {
+    font-size: 16px;
+    padding: 15px 50px;
+  }
+
+  @media ( max-width: 480px ) {
+    font-size: 14px;
+    padding: 12px 30px;
+  }
+}
+
+@mixin gallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+
+  & > * {
+    margin: 0;
+    padding: 10px;
+    min-width: 20%;
+    max-width: 25%;
+    width: 100%;
+  }
+
+  a {
+    display: block;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+@mixin whiteBox {
+  border-radius: 80px;
+  padding: 44px 92px;
+  background: #fff;
+
+  @media ( max-width: 1024px ) {
+    border-radius: 60px;
+    padding: 30px 60px;
+  }
+
+  @media ( max-width: 767px ) {
+    border-radius: 50px;
+    padding: 25px 40px;
+  }
+}
+
+@mixin input {
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+  border: 1px solid #79B9FF;
+  border-radius: 5px;
+  letter-spacing: 2.3px;
+  background: none;
+  box-shadow: none;
+  color:#fff;
+
+  &:focus {
+    outline: 0;
+    box-shadow: none;
+    border-color: #fff;
+  }
+}
